@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # movie-finder
 # movie-finder
 # movie-finder
+# movie-finder
